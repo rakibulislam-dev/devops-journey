@@ -1,0 +1,2 @@
+- Today i learned difference between pacman and apt
+- why VM required for practicing
